@@ -30,4 +30,8 @@ mvn test
 - `src/main/java/parkee_test/App.java` – linked-list implementation and demo.
 - `src/test/java/parkee_test/AppTest.java` – unit tests for the linked-list operations.
 
-Feel free to include this README when sharing the project so reviewers know how to build and run it quickly.
+### Linked List Operations (`OperationLinkedList`)
+- `insertAtEnd(int data)` – appends a new node with the provided value to the tail of the list.
+- `insertAtBeginning(int data)` – inserts a new node at the head so it becomes the first element.
+- `deleteByValue(int data)` – removes the first node that matches the provided value.
+- `display()` – prints each node from head to tail in order.
