@@ -1,4 +1,4 @@
-# Parkee Test
+# Parkee Test - Single Linked List
 
 Utilities for a coding interview exercise that covers basic linked-list operations (`parkee_test.App`). The project is a standard Maven project so it can be built and tested with a single command.
 
